@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="boton">330dp</dimen>
+    <dimen name="abajo_boton">40dp</dimen>
+    <dimen name="marge_boton">15dp</dimen>
+    <dimen name="ancho">19dp</dimen>
+<dimen name="abajo">12dp</dimen>
+    <dimen name="izq_botones">3dp</dimen>
+
+
+</resources>
